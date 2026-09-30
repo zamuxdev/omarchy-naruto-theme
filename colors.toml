@@ -1,0 +1,38 @@
+# Naruto — charcoal, amber, gold and ember.
+# Warm palette; green and blue are muted real hues for terminal legibility.
+mode = "dark"
+
+accent = "#ff9e3b"
+selection = "#49301d"
+selection_background = "#49301d"
+selection_foreground = "#fff1d6"
+muted = "#998c7c"
+
+background = "#0b0b0d"
+dark_background = "#080809"
+darker_background = "#050506"
+lighter_background = "#1c1916"
+
+foreground = "#e7dfd2"
+dark_foreground = "#b2a491"
+light_foreground = "#f4e9d5"
+bright_foreground = "#fff4df"
+
+red = "#ed6a5a"
+yellow = "#e8bd63"
+orange = "#ff9e3b"
+green = "#a9b665"
+cyan = "#ceb69a"
+blue = "#8fa9bf"
+magenta = "#e88a64"
+brown = "#b98a65"
+
+bright_red = "#ff8974"
+bright_yellow = "#f6d88a"
+bright_green = "#c3d08a"
+bright_cyan = "#e7cfaf"
+bright_blue = "#b0c7da"
+bright_magenta = "#ffa56b"
+
+hyprland_active_border = "#ff9e3b #e8bd63 45deg"
+hyprland_inactive_border = "#35302a"
